@@ -19,3 +19,6 @@
 * `pull` -> pull changes down from the remote repo to your local machine
 * `status` -> check to see which files are being tracked or need to be commited
 * `init` -> use this command inside of your project to turn it into a Git repository and start using Git with that codebase
+* `reset` -> undoing staged or commit 
+	* rest from staged to unstage
+* `log` -> show the history of all commits
