@@ -10,8 +10,8 @@
 	5. Code Editor-> word Processor for Writting Code
 	6. Repository->The project or the folder where your project is kept
 	7. Github: a website to host your repositories on websites
+	
 ## Basic git commands
-
 * `clone` -> bring a repo down from the internet (remote repository like Github) to your local machine
 * `add` -> track your files and changes with Git
 * `commit` -> save your changes into Git
